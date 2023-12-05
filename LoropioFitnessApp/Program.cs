@@ -1,3 +1,4 @@
+ch3-learning-c#-syntax
 ﻿Console.WriteLine("Activity Details");
 
 Console.WriteLine("Activity Name");
@@ -22,3 +23,10 @@ Console.WriteLine($"Distance Covered: {distanceInKilometers} kilometers");
 Console.WriteLine($"Time Taken: {timeMinutes} minutes");
 Console.WriteLine($"Date of Activity: {dateOfActivity}");
 Console.WriteLine($"Average Speed: {averageSpeed} kilometers per minute");
+=======
+﻿// See https://aka.ms/new-console-template for more information
+Console.WriteLine("Please enter your name");
+string lionName = Console.ReadLine();
+
+Console.WriteLine("Hello " + lionName + ", Welcome to Loropio Fitness App. ");
+
