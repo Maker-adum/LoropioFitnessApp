@@ -1,4 +1,11 @@
-﻿Console.WriteLine("Please enter your name");
+﻿
+Console.WriteLine("Please enter your name");
+string lionName = Console.ReadLine();
+
+Console.WriteLine("Hello " + lionName + ", Welcome to Loropio Fitness App. ");
+
+
+Console.WriteLine("Please enter your name");
 string lionName = Console.ReadLine();
 
 Console.WriteLine($"Hello {lionName}, Welcome to Loropio Fitness App.");
