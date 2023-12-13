@@ -1,4 +1,8 @@
-﻿
+﻿Console.WriteLine("Please enter your name");
+string lionName = Console.ReadLine();
+
+Console.WriteLine("Hello " + lionName + ", Welcome to Loropio Fitness App. ");
+
 int feeling;
 
 Console.WriteLine("How did you feel after the activity? Enter a number (1=BAD, 2=OK, 3=GOOD, 4=VERY GOOD, 5=STRONG): ");
