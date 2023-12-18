@@ -1,4 +1,4 @@
-﻿
+
 Console.WriteLine("Please enter your name: ");
 string lionName = Console.ReadLine();
 
